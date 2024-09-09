@@ -1,2 +1,2 @@
 # CUNI_thesis
-Master's thesis at UFAL
+Code to be uploaded soon
